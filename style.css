@@ -1,0 +1,115 @@
+body {
+    width: 1440px;
+    height: 1024px;
+    margin: 0 300px;
+    background: #e5e5e5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+
+    position: absolute;
+    top: 40px;
+    left: 40px;
+
+}
+
+.rectangulo {
+
+    width: 400px;
+    height: 944px;
+    margin: 40px 40px 40px 750px;
+    background: #FFFFFF;
+    border-radius: 32px;
+
+}
+
+.lalo {
+
+    position: relative;
+    top: 200px;
+    left: 32px;
+    outline: none;
+}
+
+section p {
+
+    position: relative;
+    top: 200px;
+    left: 32px;
+
+}
+
+.texto-principal {
+
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-right: 60px;
+}
+
+.texto-secundario {
+
+    position: absolute;
+    text-align: center;
+    margin-right: 60px;
+    width: 336px;
+    height: 160px;
+    margin: 200px 32px;
+    border: none;
+    outline: none;
+}
+
+
+.texto {
+
+    position: absolute;
+    top: 168px;
+    left: 240px;
+    width: 668px;
+    height: 663px;
+    font-size: 32px;
+    background: #e5e5e5;
+    outline: none;
+    border: none;
+}
+
+.boton1 {
+    position: absolute;
+    left: 240px;
+    bottom: 112px;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    font-size: 16px;
+    background: #0A3871;
+    color: white;
+}
+
+.boton2 {
+    position: absolute;
+    left: 592px;
+    bottom: 112px;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    font-size: 16px;
+    background: #D8DFE8;
+    color: #0A3871;
+
+}
+
+.boton3 {
+
+    position: relative;
+    top: 437px;
+    left: 37px;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    font-size: 16px;
+    background: #D8DFE8;
+    color: #0A3871;
+    display: none;
+
+}
